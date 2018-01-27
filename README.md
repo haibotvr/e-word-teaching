@@ -1,4 +1,4 @@
 # Jcy-teaching
 A teaching system
 
-hello world
+hello everyone
