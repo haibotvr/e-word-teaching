@@ -1,4 +1,3 @@
 # Jcy-teaching
-A teaching system
 
-hello everyone
+hello everyone, let us do a teaching system
